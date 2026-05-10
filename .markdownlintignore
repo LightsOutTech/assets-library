@@ -1,0 +1,7 @@
+# Vendored / scraped / archived markdown — not authored locally
+vendor/
+_archive/
+node_modules/
+runoob_tutorial_tool/
+*-operator-main/
+*-helm/
