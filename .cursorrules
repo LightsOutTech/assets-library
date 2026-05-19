@@ -1,0 +1,28 @@
+# Git Commit Rules
+
+## 语言
+
+请始终使用中文生成 Git 提交信息。
+Always write git commit messages in Chinese.
+
+## Conventional Commits 规范
+
+每个 commit message 必须带类型前缀（中文 OK）：
+
+- `feat:`     新功能
+- `fix:`      bug 修复
+- `chore:`    构建 / 工具 / 杂项
+- `docs:`     文档
+- `refactor:` 重构（不改功能）
+- `test:`     测试
+
+可选 scope：`docs(journal):`、`feat(api):` 等。
+
+示例：
+
+- ✅ `feat: 新增订单创建 API`
+- ✅ `fix: 修复 tenant_id 缺失时的鉴权报错`
+- ✅ `docs(journal): 更新 Phase 1 交付计划`
+- ✅ `chore: 补齐 .dockerignore`
+- ❌ `更新文档`（缺类型前缀）
+- ❌ `add new feature`（应使用中文）
