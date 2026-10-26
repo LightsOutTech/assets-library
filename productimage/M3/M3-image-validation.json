@@ -1,0 +1,3124 @@
+{
+  "verifiedAt": "2026-10-26T10:38:46.838Z",
+  "imageBasis": "Existing productimage/M3 images",
+  "commit": "31d91874d02640205246e3094e49d6d9d3608ae1",
+  "styles": [
+    "E5",
+    "E9",
+    "E10",
+    "E24",
+    "E26",
+    "E34",
+    "E35",
+    "E38",
+    "E40",
+    "E52",
+    "E53",
+    "E64",
+    "E72",
+    "E77",
+    "E78",
+    "E79",
+    "E85",
+    "E86",
+    "E87",
+    "E88",
+    "E92",
+    "E95",
+    "E98",
+    "E101",
+    "E103",
+    "E108",
+    "E109"
+  ],
+  "imageCount": 165,
+  "verified": 165,
+  "missing": [
+    {
+      "style": "E10",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E24",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E26",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E34",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E38",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E40",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E52",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E53",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E64",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E72",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E77",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E78",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E79",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E85",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E86",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E87",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E88",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E92",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E95",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E98",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E101",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E103",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E108",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    },
+    {
+      "style": "E109",
+      "slot": "Pic5",
+      "current": [],
+      "older": []
+    }
+  ],
+  "sourceMismatch": [
+    {
+      "style": "E5",
+      "slot": "Main",
+      "name": "E5-Main-V1.jpg",
+      "bytes": 1749560,
+      "sha256": "804ac50121b2a100f2dad631145a03e1d409e1dcba9d985aea2d20de4af95541",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-Main-V1.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\产品图\\E5-Main-V1-20231017.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "804ac50121b2a100f2dad631145a03e1d409e1dcba9d985aea2d20de4af95541",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic5",
+      "name": "E9-ListingImage-Pic5-V1.jpg",
+      "bytes": 10879579,
+      "sha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic5-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Pic4",
+      "name": "E10-ListingImage-Pic4-V1.jpg",
+      "bytes": 1089406,
+      "sha256": "07d2a0ad79283fb642dfc165d78e10c0f06d4955c81521dcd01cf00aa5328016",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "07d2a0ad79283fb642dfc165d78e10c0f06d4955c81521dcd01cf00aa5328016",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Pic4",
+      "name": "E38-ListingImage-Pic4-V1.jpg",
+      "bytes": 1046265,
+      "sha256": "09e38adcb86e0b24ea06fef8e4f9cb7d7257390f1aca7a6aae1af62d10c7e673",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "09e38adcb86e0b24ea06fef8e4f9cb7d7257390f1aca7a6aae1af62d10c7e673",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Main",
+      "name": "E64-Main-V1.jpg",
+      "bytes": 1342217,
+      "sha256": "24ac4e3cd219d455f88803d232e54e3366479feaa724d9d3665cba45701b517c",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "24ac4e3cd219d455f88803d232e54e3366479feaa724d9d3665cba45701b517c",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Main",
+      "name": "E78-Main-V1.jpg",
+      "bytes": 1829121,
+      "sha256": "d189edea4be99ef1967567328e5393ae2da6a544c73eeb1b0d5046000cd5e96b",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d189edea4be99ef1967567328e5393ae2da6a544c73eeb1b0d5046000cd5e96b",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Main",
+      "name": "E79-Main-V1.jpg",
+      "bytes": 1548612,
+      "sha256": "7e8ee0d2690d4ea2b612735a8f2fbfb11b053a284f6c3b7752c9b0bfa20f5412",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7e8ee0d2690d4ea2b612735a8f2fbfb11b053a284f6c3b7752c9b0bfa20f5412",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Main",
+      "name": "E86-Main-V1.jpg",
+      "bytes": 1371578,
+      "sha256": "133f38b97f375cfb131d387f4978b80d8bc08d4fe92c15d45e5fe8f1434ab472",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "133f38b97f375cfb131d387f4978b80d8bc08d4fe92c15d45e5fe8f1434ab472",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Main",
+      "name": "E87-Main-V1.jpg",
+      "bytes": 1533639,
+      "sha256": "194a114c61e3f5c6c1d0f71f2a9c5f14358ab6443f8bf799582aeb92124ab8a1",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "194a114c61e3f5c6c1d0f71f2a9c5f14358ab6443f8bf799582aeb92124ab8a1",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Main",
+      "name": "E88-Main-V1.jpg",
+      "bytes": 2042339,
+      "sha256": "7a281602d8c20b311213bd42f185ec1f2580cb817fa3fb8a16207ab7ff234bfd",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7a281602d8c20b311213bd42f185ec1f2580cb817fa3fb8a16207ab7ff234bfd",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Pic4",
+      "name": "E88-ListingImage-Pic4-V1.jpg",
+      "bytes": 1565102,
+      "sha256": "36abe9ac58c26186e80853cda88d251e6cb6ca5f8bced27b4eba0286b860a49b",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "36abe9ac58c26186e80853cda88d251e6cb6ca5f8bced27b4eba0286b860a49b",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Main",
+      "name": "E92-Main-V1.jpg",
+      "bytes": 2059294,
+      "sha256": "2a1b911aa6ee7ee298c7e4146224055b578dbb08e84181f0eceaffd65ad02aee",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2a1b911aa6ee7ee298c7e4146224055b578dbb08e84181f0eceaffd65ad02aee",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Main",
+      "name": "E98-Main-V1.jpg",
+      "bytes": 1948290,
+      "sha256": "92a41225296708f0d8c7bc44e63bde3f7d0e084d65cbbf9c0d44f8f576565d9a",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "92a41225296708f0d8c7bc44e63bde3f7d0e084d65cbbf9c0d44f8f576565d9a",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Main",
+      "name": "E103-Main-V1.jpg",
+      "bytes": 1502391,
+      "sha256": "9955987b01b17a6f4961cdfbcb8a452b84be5cd3faee3ce3a94d4e11b65a0525",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9955987b01b17a6f4961cdfbcb8a452b84be5cd3faee3ce3a94d4e11b65a0525",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Main",
+      "name": "E109-Main-V1.jpg",
+      "bytes": 2044575,
+      "sha256": "cbf8127f1e7da6ca9c3a669d276e1bb3808b70cee962a3422c7642db53abbcba",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cbf8127f1e7da6ca9c3a669d276e1bb3808b70cee962a3422c7642db53abbcba",
+      "verified": true
+    }
+  ],
+  "records": [
+    {
+      "style": "E5",
+      "slot": "Main",
+      "name": "E5-Main-V1.jpg",
+      "bytes": 1749560,
+      "sha256": "804ac50121b2a100f2dad631145a03e1d409e1dcba9d985aea2d20de4af95541",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-Main-V1.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\产品图\\E5-Main-V1-20231017.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "804ac50121b2a100f2dad631145a03e1d409e1dcba9d985aea2d20de4af95541",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Pic1",
+      "name": "E5-ListingImage-Pic1-V1.jpg",
+      "bytes": 830760,
+      "sha256": "696e1475c5c967653a65f103dc39adfcafa84cbb5cd76a61ddbd20f8908e2dca",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "696e1475c5c967653a65f103dc39adfcafa84cbb5cd76a61ddbd20f8908e2dca",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Pic2",
+      "name": "E5-ListingImage-Pic2-V1.jpg",
+      "bytes": 776435,
+      "sha256": "304530aa57cba7509082a0ac0002e32818321783863960f605ffacb3999f64d5",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "304530aa57cba7509082a0ac0002e32818321783863960f605ffacb3999f64d5",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Size",
+      "name": "E5-ListingImage-Size-V1.jpg",
+      "bytes": 539331,
+      "sha256": "18fcc8b8b0cbffa4d573c351979b23fc85255073e5f7c17288ffd47fa1217da1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "18fcc8b8b0cbffa4d573c351979b23fc85255073e5f7c17288ffd47fa1217da1",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Pic3",
+      "name": "E5-ListingImage-Pic3-V1.jpg",
+      "bytes": 943361,
+      "sha256": "951d54a3cfa7441062afa9baec8220e3c1de6e799bf035ecb9c9366d995aff75",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "951d54a3cfa7441062afa9baec8220e3c1de6e799bf035ecb9c9366d995aff75",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Pic4",
+      "name": "E5-ListingImage-Pic4-V1.jpg",
+      "bytes": 816970,
+      "sha256": "4d359db162138c6fc9b4fe655936c72c5da028a6a54606ab21252e7fb080cce8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4d359db162138c6fc9b4fe655936c72c5da028a6a54606ab21252e7fb080cce8",
+      "verified": true
+    },
+    {
+      "style": "E5",
+      "slot": "Pic5",
+      "name": "E5-ListingImage-Pic5-V1.jpg",
+      "bytes": 959984,
+      "sha256": "533243bbbb010266eabdd883cf4e936e797a73189adbd64692827e0f3ecb2624",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E5\\E5-ListingImage-Pic5-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E5-ListingImage-Pic5-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "533243bbbb010266eabdd883cf4e936e797a73189adbd64692827e0f3ecb2624",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Main",
+      "name": "E9-Main-V1.jpg",
+      "bytes": 1807774,
+      "sha256": "24e313a4f8b9f0a01d00d1a5fe34b85775da3b18db93c34eb66070a790a2d805",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "24e313a4f8b9f0a01d00d1a5fe34b85775da3b18db93c34eb66070a790a2d805",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic1",
+      "name": "E9-ListingImage-Pic1-V1.jpg",
+      "bytes": 1002098,
+      "sha256": "496f098f7defd00e0f7069e8ad2d331dc13716360accb08663826ece2af5bb6d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "496f098f7defd00e0f7069e8ad2d331dc13716360accb08663826ece2af5bb6d",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic2",
+      "name": "E9-ListingImage-Pic2-V1.jpg",
+      "bytes": 847745,
+      "sha256": "c160e053cc2392c7ed35e13c522cd261e10fac14b4838eeadf0ea2f55c2c616a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c160e053cc2392c7ed35e13c522cd261e10fac14b4838eeadf0ea2f55c2c616a",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Size",
+      "name": "E9-ListingImage-Size-V1.jpg",
+      "bytes": 738528,
+      "sha256": "144814669294ac20c69e002b04190ac9f02c3db786294e6759cd2a731c559a2e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "144814669294ac20c69e002b04190ac9f02c3db786294e6759cd2a731c559a2e",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic3",
+      "name": "E9-ListingImage-Pic3-V1.jpg",
+      "bytes": 1180088,
+      "sha256": "cfecd8739bd04e0965724bc8dc9d40c4da708340c174a6446b8822bd4da98d58",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cfecd8739bd04e0965724bc8dc9d40c4da708340c174a6446b8822bd4da98d58",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic4",
+      "name": "E9-ListingImage-Pic4-V1.jpg",
+      "bytes": 990833,
+      "sha256": "c218ff7a2bdc562bd4f0c68104689c74720c3260fdc1b7a875784df71428a3ca",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E9\\E9-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c218ff7a2bdc562bd4f0c68104689c74720c3260fdc1b7a875784df71428a3ca",
+      "verified": true
+    },
+    {
+      "style": "E9",
+      "slot": "Pic5",
+      "name": "E9-ListingImage-Pic5-V1.jpg",
+      "bytes": 10879579,
+      "sha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E9-ListingImage-Pic5-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Main",
+      "name": "E10-Main-V1.jpg",
+      "bytes": 1199101,
+      "sha256": "3bccb020a51f4d2da44c2fe4966445f923e4f9dd637cb418eb5d79272d6223a1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "3bccb020a51f4d2da44c2fe4966445f923e4f9dd637cb418eb5d79272d6223a1",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Pic1",
+      "name": "E10-ListingImage-Pic1-V1.jpg",
+      "bytes": 818552,
+      "sha256": "c4c82687de8eaf66a2ca1a3afdffe33e3862815fd2927a6143d292f78f86b31e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c4c82687de8eaf66a2ca1a3afdffe33e3862815fd2927a6143d292f78f86b31e",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Pic2",
+      "name": "E10-ListingImage-Pic2-V1.jpg",
+      "bytes": 598612,
+      "sha256": "2368cdd553af6ba18bb98add573c0d4f166cdcc62d7e1d9855dae19a83f5e6d6",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2368cdd553af6ba18bb98add573c0d4f166cdcc62d7e1d9855dae19a83f5e6d6",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Size",
+      "name": "E10-ListingImage-Size-V1.jpg",
+      "bytes": 742611,
+      "sha256": "0a6de0f344bc087b13e9a4cec600719c6e1ea54cc5445476ad4d872827da265d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0a6de0f344bc087b13e9a4cec600719c6e1ea54cc5445476ad4d872827da265d",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Pic3",
+      "name": "E10-ListingImage-Pic3-V1.jpg",
+      "bytes": 956273,
+      "sha256": "d72df90afe63f4bddb67a76920d9b2c78c93e07aac389803ec985542fd90a1eb",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d72df90afe63f4bddb67a76920d9b2c78c93e07aac389803ec985542fd90a1eb",
+      "verified": true
+    },
+    {
+      "style": "E10",
+      "slot": "Pic4",
+      "name": "E10-ListingImage-Pic4-V1.jpg",
+      "bytes": 1089406,
+      "sha256": "07d2a0ad79283fb642dfc165d78e10c0f06d4955c81521dcd01cf00aa5328016",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E10\\E10-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E10-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "07d2a0ad79283fb642dfc165d78e10c0f06d4955c81521dcd01cf00aa5328016",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Main",
+      "name": "E24-Main-V1.jpg",
+      "bytes": 1528332,
+      "sha256": "f94e03a69a92058a826b957df80ffecccc5ab2e9b3517b0bbe17ae1dfecdcb47",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "f94e03a69a92058a826b957df80ffecccc5ab2e9b3517b0bbe17ae1dfecdcb47",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Pic1",
+      "name": "E24-ListingImage-Pic1-V1.jpg",
+      "bytes": 996630,
+      "sha256": "5bf92e458fc50cbf49b5cb964046bce9cd922d3134997c3e9f1a2e254eccc709",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "5bf92e458fc50cbf49b5cb964046bce9cd922d3134997c3e9f1a2e254eccc709",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Pic2",
+      "name": "E24-ListingImage-Pic2-V1.jpg",
+      "bytes": 727577,
+      "sha256": "7448a4859ca47a26dd5bbc2784ce5885d9453528dd53e04a83141f91c6a54483",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7448a4859ca47a26dd5bbc2784ce5885d9453528dd53e04a83141f91c6a54483",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Size",
+      "name": "E24-ListingImage-Size-V1.jpg",
+      "bytes": 727935,
+      "sha256": "5e114be4445c409666136e1099ae939bb6cf606d8bd8024bbf4bdeb1bcbba158",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "5e114be4445c409666136e1099ae939bb6cf606d8bd8024bbf4bdeb1bcbba158",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Pic3",
+      "name": "E24-ListingImage-Pic3-V1.jpg",
+      "bytes": 1265387,
+      "sha256": "30aa8d6abff9b09220b2776311c35fbae11696444a8c1442c7518aab92f92ad5",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "30aa8d6abff9b09220b2776311c35fbae11696444a8c1442c7518aab92f92ad5",
+      "verified": true
+    },
+    {
+      "style": "E24",
+      "slot": "Pic4",
+      "name": "E24-ListingImage-Pic4-V1.jpg",
+      "bytes": 2845181,
+      "sha256": "289a6de2775ca350e4a98a2d1738e3beeb2ac97b381dd869d8d45d8a6e4a6ec3",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E24\\E24-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E24-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "289a6de2775ca350e4a98a2d1738e3beeb2ac97b381dd869d8d45d8a6e4a6ec3",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Main",
+      "name": "E26-Main-V1.jpg",
+      "bytes": 1721855,
+      "sha256": "a72652a0f7511a2c96efeb647ad1ef5feaad761e8265d7dc544adf8d041c6846",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a72652a0f7511a2c96efeb647ad1ef5feaad761e8265d7dc544adf8d041c6846",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Pic1",
+      "name": "E26-ListingImage-Pic1-V1.jpg",
+      "bytes": 1107879,
+      "sha256": "6af87f6c30abe48d532189b776c2265cc0e25826b593311586e7bef10e807d86",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6af87f6c30abe48d532189b776c2265cc0e25826b593311586e7bef10e807d86",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Pic2",
+      "name": "E26-ListingImage-Pic2-V1.jpg",
+      "bytes": 898344,
+      "sha256": "8d2c4d55b3381cd81887ef023a70218b473b5320b42fe1102abecc4ce91a0a4b",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8d2c4d55b3381cd81887ef023a70218b473b5320b42fe1102abecc4ce91a0a4b",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Size",
+      "name": "E26-ListingImage-Size-V1.jpg",
+      "bytes": 635099,
+      "sha256": "bd227f7818ef99944a7281f84a1d774007f090b4f8177205205321f017813b72",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "bd227f7818ef99944a7281f84a1d774007f090b4f8177205205321f017813b72",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Pic3",
+      "name": "E26-ListingImage-Pic3-V1.jpg",
+      "bytes": 1356096,
+      "sha256": "0980982778decc01ab0381e5cd32d40ac6d1b3ceeafcc30c1bca03af7498daa8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0980982778decc01ab0381e5cd32d40ac6d1b3ceeafcc30c1bca03af7498daa8",
+      "verified": true
+    },
+    {
+      "style": "E26",
+      "slot": "Pic4",
+      "name": "E26-ListingImage-Pic4-V1.jpg",
+      "bytes": 3300453,
+      "sha256": "4289f9f81d39ce1b3d3771beef480d3a5362fc75cc442f61b1904490034035f0",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E26\\E26-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E26-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4289f9f81d39ce1b3d3771beef480d3a5362fc75cc442f61b1904490034035f0",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Main",
+      "name": "E34-Main-V1.jpg",
+      "bytes": 1883837,
+      "sha256": "3ae55ad31878c135853e3e474e83aceade6db0d44c4c283e557204e7eec94e4b",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "3ae55ad31878c135853e3e474e83aceade6db0d44c4c283e557204e7eec94e4b",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Pic1",
+      "name": "E34-ListingImage-Pic1-V1.jpg",
+      "bytes": 1094651,
+      "sha256": "cbae3a8d9789be2d8db9fe07cbde53c7d9a874fb8d86561a877cb9d1298f76f1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cbae3a8d9789be2d8db9fe07cbde53c7d9a874fb8d86561a877cb9d1298f76f1",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Pic2",
+      "name": "E34-ListingImage-Pic2-V1.jpg",
+      "bytes": 985898,
+      "sha256": "33c9098442930f006f0385f24249e11bba267336bf0dfbc69ce3c411de6c2881",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "33c9098442930f006f0385f24249e11bba267336bf0dfbc69ce3c411de6c2881",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Size",
+      "name": "E34-ListingImage-Size-V1.jpg",
+      "bytes": 649425,
+      "sha256": "9041a22a3ef7535149787f841318aa4ae3c3bbfae575c0c5748ab36cfcdb5a47",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9041a22a3ef7535149787f841318aa4ae3c3bbfae575c0c5748ab36cfcdb5a47",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Pic3",
+      "name": "E34-ListingImage-Pic3-V1.jpg",
+      "bytes": 1381055,
+      "sha256": "13565dc8eaa53f362863c7fe10a080004da3be899b72a28b4de914c63059e9e0",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "13565dc8eaa53f362863c7fe10a080004da3be899b72a28b4de914c63059e9e0",
+      "verified": true
+    },
+    {
+      "style": "E34",
+      "slot": "Pic4",
+      "name": "E34-ListingImage-Pic4-V1.jpg",
+      "bytes": 3495454,
+      "sha256": "259b661a16d562dafb16f5a8ffd0af7376af815eba15c26dcee1484c6012abf9",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E34\\E34-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E34-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "259b661a16d562dafb16f5a8ffd0af7376af815eba15c26dcee1484c6012abf9",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Main",
+      "name": "E35-Main-V1.jpg",
+      "bytes": 1470426,
+      "sha256": "73b36ba2eeeff90bbd48610ee6bbd895479d0d5f613047c2a6ac70787861a15a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "73b36ba2eeeff90bbd48610ee6bbd895479d0d5f613047c2a6ac70787861a15a",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Pic1",
+      "name": "E35-ListingImage-Pic1-V1.jpg",
+      "bytes": 790997,
+      "sha256": "ecbb0fb3c8feadfe882da189c49f4e0d705eb091d5b1324b124e4c31a78fede3",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "ecbb0fb3c8feadfe882da189c49f4e0d705eb091d5b1324b124e4c31a78fede3",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Pic2",
+      "name": "E35-ListingImage-Pic2-V1.jpg",
+      "bytes": 800159,
+      "sha256": "c181a5ac2b9353b821b9ea68bfab1ea0a1b7cc7dabfb254d0392a06cd3e2df7c",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c181a5ac2b9353b821b9ea68bfab1ea0a1b7cc7dabfb254d0392a06cd3e2df7c",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Size",
+      "name": "E35-ListingImage-Size-V1.jpg",
+      "bytes": 630256,
+      "sha256": "0ef71dec371944b1d19cb96d796453dad05ac8086bfcfefb928010e54e286ae9",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0ef71dec371944b1d19cb96d796453dad05ac8086bfcfefb928010e54e286ae9",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Pic3",
+      "name": "E35-ListingImage-Pic3-V1.jpg",
+      "bytes": 1001840,
+      "sha256": "2493f793d139052a61ad5ed40486cfb9aaa528dd5901ebaf11598c345047fb40",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2493f793d139052a61ad5ed40486cfb9aaa528dd5901ebaf11598c345047fb40",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Pic4",
+      "name": "E35-ListingImage-Pic4-V1.jpg",
+      "bytes": 819875,
+      "sha256": "46e27cbcc7f5905ab9719b3c7eadae75f991f31f832ccc1265b15cdcc28a44fe",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "46e27cbcc7f5905ab9719b3c7eadae75f991f31f832ccc1265b15cdcc28a44fe",
+      "verified": true
+    },
+    {
+      "style": "E35",
+      "slot": "Pic5",
+      "name": "E35-ListingImage-Pic5-V1.jpg",
+      "bytes": 912414,
+      "sha256": "7f13bd409c708cecf52bb941c1b491fc9d75c5484f33fc053c3ddc61b40ac902",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E35\\E35-ListingImage-Pic5-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E35-ListingImage-Pic5-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7f13bd409c708cecf52bb941c1b491fc9d75c5484f33fc053c3ddc61b40ac902",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Main",
+      "name": "E38-Main-V1.jpg",
+      "bytes": 868652,
+      "sha256": "2bd7588a50a129dd88bcf85407439478eb6454a167811257bfabd96a329dca41",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2bd7588a50a129dd88bcf85407439478eb6454a167811257bfabd96a329dca41",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Pic1",
+      "name": "E38-ListingImage-Pic1-V1.jpg",
+      "bytes": 772027,
+      "sha256": "267533cbe4961a643406ef4a9154c7cb65f14b1d3dc904b509d07ee35224950b",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "267533cbe4961a643406ef4a9154c7cb65f14b1d3dc904b509d07ee35224950b",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Pic2",
+      "name": "E38-ListingImage-Pic2-V1.jpg",
+      "bytes": 603871,
+      "sha256": "c7888c990cc7a7b4be5577c823c20a185c1b18d40870b79f1a86bc621d6e599d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c7888c990cc7a7b4be5577c823c20a185c1b18d40870b79f1a86bc621d6e599d",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Size",
+      "name": "E38-ListingImage-Size-V1.jpg",
+      "bytes": 639461,
+      "sha256": "8886bb31f458690cf4035986894680e4c92e8cef8c8526becd7b8cde599d8758",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8886bb31f458690cf4035986894680e4c92e8cef8c8526becd7b8cde599d8758",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Pic3",
+      "name": "E38-ListingImage-Pic3-V1.jpg",
+      "bytes": 1095964,
+      "sha256": "f77e33758c3fe2f9beced674d2289e0165b9297541f75960d7993bfe42959c1e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "f77e33758c3fe2f9beced674d2289e0165b9297541f75960d7993bfe42959c1e",
+      "verified": true
+    },
+    {
+      "style": "E38",
+      "slot": "Pic4",
+      "name": "E38-ListingImage-Pic4-V1.jpg",
+      "bytes": 1046265,
+      "sha256": "09e38adcb86e0b24ea06fef8e4f9cb7d7257390f1aca7a6aae1af62d10c7e673",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E38\\E38-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E38-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "09e38adcb86e0b24ea06fef8e4f9cb7d7257390f1aca7a6aae1af62d10c7e673",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Main",
+      "name": "E40-Main-V1.jpg",
+      "bytes": 1524970,
+      "sha256": "e15a6363a2e843fd8045c2b987c99ca8e712a0f99834330dd9b33435ce1f9f4d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e15a6363a2e843fd8045c2b987c99ca8e712a0f99834330dd9b33435ce1f9f4d",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Pic1",
+      "name": "E40-ListingImage-Pic1-V1.jpg",
+      "bytes": 902305,
+      "sha256": "04104c38ad3d10ee51e9e74938b6a7a588c20f3faf0a634ca2231a1564305ba8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "04104c38ad3d10ee51e9e74938b6a7a588c20f3faf0a634ca2231a1564305ba8",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Pic2",
+      "name": "E40-ListingImage-Pic2-V1.jpg",
+      "bytes": 817837,
+      "sha256": "a4eaab0f22f76334ad2599f4895f1e5bf8cc74b6d7db30e45f5e9aa4ec8044a3",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a4eaab0f22f76334ad2599f4895f1e5bf8cc74b6d7db30e45f5e9aa4ec8044a3",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Size",
+      "name": "E40-ListingImage-Size-V1.jpg",
+      "bytes": 732002,
+      "sha256": "9269ee2c273820378e2cdf709d6cb454e68b237c540d04e0993f8e9934b9a190",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9269ee2c273820378e2cdf709d6cb454e68b237c540d04e0993f8e9934b9a190",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Pic3",
+      "name": "E40-ListingImage-Pic3-V1.jpg",
+      "bytes": 1321515,
+      "sha256": "4fd807c4eeffba3d1f43f1f406748b3add28c595d787e183ad0ee6e1f3e918ca",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4fd807c4eeffba3d1f43f1f406748b3add28c595d787e183ad0ee6e1f3e918ca",
+      "verified": true
+    },
+    {
+      "style": "E40",
+      "slot": "Pic4",
+      "name": "E40-ListingImage-Pic4-V1.jpg",
+      "bytes": 891798,
+      "sha256": "4cef2a90e81ddbfb7f71e6591048c43486c4cf414caa59cac184d2258d0b7a1e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E40\\E40-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E40-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4cef2a90e81ddbfb7f71e6591048c43486c4cf414caa59cac184d2258d0b7a1e",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Main",
+      "name": "E52-Main-V1.jpg",
+      "bytes": 1059319,
+      "sha256": "7fd4886a525987b2eaead258662f8fd4b9e989323baf75ba7ef4d6f39ef8b32c",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7fd4886a525987b2eaead258662f8fd4b9e989323baf75ba7ef4d6f39ef8b32c",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Pic1",
+      "name": "E52-ListingImage-Pic1-V1.jpg",
+      "bytes": 891326,
+      "sha256": "4343a4915c55ebb693aaaf524fb1568a994ab74cc37bbbc68faceba945d2456d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4343a4915c55ebb693aaaf524fb1568a994ab74cc37bbbc68faceba945d2456d",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Pic2",
+      "name": "E52-ListingImage-Pic2-V1.jpg",
+      "bytes": 682897,
+      "sha256": "ae0fcf89f900877689f9b629360260f2b02022e038f73b7084f9e883ed703170",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "ae0fcf89f900877689f9b629360260f2b02022e038f73b7084f9e883ed703170",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Size",
+      "name": "E52-ListingImage-Size-V1.jpg",
+      "bytes": 719800,
+      "sha256": "ee0db5f1782c158d6de1d7d17b06118ab1038ebdbb1e66e998fcf8734fcaa140",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "ee0db5f1782c158d6de1d7d17b06118ab1038ebdbb1e66e998fcf8734fcaa140",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Pic3",
+      "name": "E52-ListingImage-Pic3-V1.jpg",
+      "bytes": 1149583,
+      "sha256": "e8a0f803aeb2ba4d22a2c4cd080c31a58c613f5e1eee73e1402dddb1f98a9af1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e8a0f803aeb2ba4d22a2c4cd080c31a58c613f5e1eee73e1402dddb1f98a9af1",
+      "verified": true
+    },
+    {
+      "style": "E52",
+      "slot": "Pic4",
+      "name": "E52-ListingImage-Pic4-V1.jpg",
+      "bytes": 841137,
+      "sha256": "b61e4f7ff6d970418bdfc36469789c24b82b85ae8a0e2b7e48e4ab3cfb490bbf",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E52\\E52-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E52-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "b61e4f7ff6d970418bdfc36469789c24b82b85ae8a0e2b7e48e4ab3cfb490bbf",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Main",
+      "name": "E53-Main-V1.jpg",
+      "bytes": 1256019,
+      "sha256": "392ca26fbc8c3fab22cbeb39da4b9a53783241635664df3ca5394df9ad24f13a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "392ca26fbc8c3fab22cbeb39da4b9a53783241635664df3ca5394df9ad24f13a",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Pic1",
+      "name": "E53-ListingImage-Pic1-V1.jpg",
+      "bytes": 837246,
+      "sha256": "0c45ee803a543f87ab5a8ed81416ef6112c9c0bb9947932051c59a0b6be8eaa7",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0c45ee803a543f87ab5a8ed81416ef6112c9c0bb9947932051c59a0b6be8eaa7",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Pic2",
+      "name": "E53-ListingImage-Pic2-V1.jpg",
+      "bytes": 751259,
+      "sha256": "6c488bf28a20a37dbf6e70af807f11cb429a5b7aaaabfa5488b09c603a3e2a53",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6c488bf28a20a37dbf6e70af807f11cb429a5b7aaaabfa5488b09c603a3e2a53",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Size",
+      "name": "E53-ListingImage-Size-V1.jpg",
+      "bytes": 641776,
+      "sha256": "68b3c024431175c6d5edfbaef756a6a24704871e69ccdc24f1b777062a8d7b61",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "68b3c024431175c6d5edfbaef756a6a24704871e69ccdc24f1b777062a8d7b61",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Pic3",
+      "name": "E53-ListingImage-Pic3-V1.jpg",
+      "bytes": 1205033,
+      "sha256": "3c5d425025c417cdc3d351824c99337d68d162293b4a293c19d1485f50f9f695",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "3c5d425025c417cdc3d351824c99337d68d162293b4a293c19d1485f50f9f695",
+      "verified": true
+    },
+    {
+      "style": "E53",
+      "slot": "Pic4",
+      "name": "E53-ListingImage-Pic4-V1.jpg",
+      "bytes": 8582837,
+      "sha256": "b195be530b75390fab6e0588a196cd3a94439f7ef12c289f3717b987a5b5a2fe",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E53\\E53-ListingImage-Pic4-V1.jpeg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E53-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "b195be530b75390fab6e0588a196cd3a94439f7ef12c289f3717b987a5b5a2fe",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Main",
+      "name": "E64-Main-V1.jpg",
+      "bytes": 1342217,
+      "sha256": "24ac4e3cd219d455f88803d232e54e3366479feaa724d9d3665cba45701b517c",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "24ac4e3cd219d455f88803d232e54e3366479feaa724d9d3665cba45701b517c",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Pic1",
+      "name": "E64-ListingImage-Pic1-V1.jpg",
+      "bytes": 830351,
+      "sha256": "9e4187bec08c4846ae1099683af34d14af4a37db639d09d940cbe95f6a619f03",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9e4187bec08c4846ae1099683af34d14af4a37db639d09d940cbe95f6a619f03",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Pic2",
+      "name": "E64-ListingImage-Pic2-V1.jpg",
+      "bytes": 808106,
+      "sha256": "dffcd84ecaeae6d9f7b340f51e305e81c6c65b2f46b39b6bb553b4d07404d2c9",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "dffcd84ecaeae6d9f7b340f51e305e81c6c65b2f46b39b6bb553b4d07404d2c9",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Size",
+      "name": "E64-ListingImage-Size-V1.jpg",
+      "bytes": 674418,
+      "sha256": "9d602fe57ceeecd01c897523d0d92985ca9e47e806f52cc5099b632c1297d57f",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9d602fe57ceeecd01c897523d0d92985ca9e47e806f52cc5099b632c1297d57f",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Pic3",
+      "name": "E64-ListingImage-Pic3-V1.jpg",
+      "bytes": 2214916,
+      "sha256": "874445895fb455337f123fa4f2684167ee9e4254301d8a31ac6998b6f196d158",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-ListingImage-Pic3-V1.jpeg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "874445895fb455337f123fa4f2684167ee9e4254301d8a31ac6998b6f196d158",
+      "verified": true
+    },
+    {
+      "style": "E64",
+      "slot": "Pic4",
+      "name": "E64-ListingImage-Pic4-V1.jpg",
+      "bytes": 811474,
+      "sha256": "e9b9a5774b5d7a6e1eeb257425ccded985276ae6e64a5920d48fa67aca4ac3d7",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E64\\E64-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E64-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e9b9a5774b5d7a6e1eeb257425ccded985276ae6e64a5920d48fa67aca4ac3d7",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Main",
+      "name": "E72-Main-V1.jpg",
+      "bytes": 1285202,
+      "sha256": "9788387642fa74dea60ca23e277cd2d0507a197c81c92ea74e4da98017a6c03d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9788387642fa74dea60ca23e277cd2d0507a197c81c92ea74e4da98017a6c03d",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Pic1",
+      "name": "E72-ListingImage-Pic1-V1.jpg",
+      "bytes": 1151176,
+      "sha256": "fedb9559af45fe25bd9bb2cc4e3c41438d446f010de73f8e9708a1fe4f2b6ff8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "fedb9559af45fe25bd9bb2cc4e3c41438d446f010de73f8e9708a1fe4f2b6ff8",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Pic2",
+      "name": "E72-ListingImage-Pic2-V1.jpg",
+      "bytes": 894578,
+      "sha256": "457d6714691e2e3c7b1aacb1b3b5df76f0bca14bd997a2410c922ddc01609b34",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "457d6714691e2e3c7b1aacb1b3b5df76f0bca14bd997a2410c922ddc01609b34",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Size",
+      "name": "E72-ListingImage-Size-V1.jpg",
+      "bytes": 774818,
+      "sha256": "f652efb53512ef44cedf5f049224382e7272887c312bb905e27f5c29cfc30628",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "f652efb53512ef44cedf5f049224382e7272887c312bb905e27f5c29cfc30628",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Pic3",
+      "name": "E72-ListingImage-Pic3-V1.jpg",
+      "bytes": 1254423,
+      "sha256": "9e6fa90f5ceada791ff0208757f80a6d3b6f7323b989f654baceff9c6eb3b0a9",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9e6fa90f5ceada791ff0208757f80a6d3b6f7323b989f654baceff9c6eb3b0a9",
+      "verified": true
+    },
+    {
+      "style": "E72",
+      "slot": "Pic4",
+      "name": "E72-ListingImage-Pic4-V1.jpg",
+      "bytes": 1122980,
+      "sha256": "46beb256e25d90e5ec050644d4a1af50c2a6798415f3abd90fc818d815f0ec87",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E72\\E72-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E72-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "46beb256e25d90e5ec050644d4a1af50c2a6798415f3abd90fc818d815f0ec87",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Main",
+      "name": "E77-Main-V1.jpg",
+      "bytes": 1452834,
+      "sha256": "9f47dfdcb113ac999ad3c54b3d48e418f11660a807796274ea221df7ea01fb82",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9f47dfdcb113ac999ad3c54b3d48e418f11660a807796274ea221df7ea01fb82",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Pic1",
+      "name": "E77-ListingImage-Pic1-V1.jpg",
+      "bytes": 1124618,
+      "sha256": "3ad517ced54674f30702548f1a90dba4afc9164187ddff751d7db7e7e763f974",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "3ad517ced54674f30702548f1a90dba4afc9164187ddff751d7db7e7e763f974",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Pic2",
+      "name": "E77-ListingImage-Pic2-V1.jpg",
+      "bytes": 908500,
+      "sha256": "4223c06e75fdc4679adf689084037cb295d630ad4e028f90f2c9db89640f4368",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "4223c06e75fdc4679adf689084037cb295d630ad4e028f90f2c9db89640f4368",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Size",
+      "name": "E77-ListingImage-Size-V1.jpg",
+      "bytes": 819806,
+      "sha256": "1c6ed06f10446cb057369176b1679386480f32843b23b8630402736c1bcea7c4",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "1c6ed06f10446cb057369176b1679386480f32843b23b8630402736c1bcea7c4",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Pic3",
+      "name": "E77-ListingImage-Pic3-V1.jpg",
+      "bytes": 1279458,
+      "sha256": "74deda7c8377dfaf4184ce5cd1a7b4397926319abfc12a51a53ab853b200beac",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "74deda7c8377dfaf4184ce5cd1a7b4397926319abfc12a51a53ab853b200beac",
+      "verified": true
+    },
+    {
+      "style": "E77",
+      "slot": "Pic4",
+      "name": "E77-ListingImage-Pic4-V1.jpg",
+      "bytes": 1100586,
+      "sha256": "85cbf915b7268d98216c251dd8b1b516c0298d2dd6ded7b55e9f0906eabbb050",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E77\\E77-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E77-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "85cbf915b7268d98216c251dd8b1b516c0298d2dd6ded7b55e9f0906eabbb050",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Main",
+      "name": "E78-Main-V1.jpg",
+      "bytes": 1829121,
+      "sha256": "d189edea4be99ef1967567328e5393ae2da6a544c73eeb1b0d5046000cd5e96b",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d189edea4be99ef1967567328e5393ae2da6a544c73eeb1b0d5046000cd5e96b",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Pic1",
+      "name": "E78-ListingImage-Pic1-V1.jpg",
+      "bytes": 884700,
+      "sha256": "90b42d169e89b3d3bad67b347cfd9708345479eebd6775bdba1636e3b683936e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "90b42d169e89b3d3bad67b347cfd9708345479eebd6775bdba1636e3b683936e",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Pic2",
+      "name": "E78-ListingImage-Pic2-V1.jpg",
+      "bytes": 852381,
+      "sha256": "8e246ce6ff85c05c0b44387225d63b4bd984ec552e94cda2afa8cfe37f20aba0",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8e246ce6ff85c05c0b44387225d63b4bd984ec552e94cda2afa8cfe37f20aba0",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Size",
+      "name": "E78-ListingImage-Size-V1.jpg",
+      "bytes": 635990,
+      "sha256": "359521a5ec0ace1621cf69b5f6de8398ed003324b116b9ab1b6b484e04e726bb",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "359521a5ec0ace1621cf69b5f6de8398ed003324b116b9ab1b6b484e04e726bb",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Pic3",
+      "name": "E78-ListingImage-Pic3-V1.jpg",
+      "bytes": 892258,
+      "sha256": "c45b3d182248ad66de252706b4fac3ebf090e7116c3ba9385c34c4cbe528235b",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c45b3d182248ad66de252706b4fac3ebf090e7116c3ba9385c34c4cbe528235b",
+      "verified": true
+    },
+    {
+      "style": "E78",
+      "slot": "Pic4",
+      "name": "E78-ListingImage-Pic4-V1.jpg",
+      "bytes": 884387,
+      "sha256": "09882e754000e0092abc59306fe88424ef443e0dfe6c316efbfdec87de15f442",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E78\\E78-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E78-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "09882e754000e0092abc59306fe88424ef443e0dfe6c316efbfdec87de15f442",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Main",
+      "name": "E79-Main-V1.jpg",
+      "bytes": 1548612,
+      "sha256": "7e8ee0d2690d4ea2b612735a8f2fbfb11b053a284f6c3b7752c9b0bfa20f5412",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7e8ee0d2690d4ea2b612735a8f2fbfb11b053a284f6c3b7752c9b0bfa20f5412",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Pic1",
+      "name": "E79-ListingImage-Pic1-V1.jpg",
+      "bytes": 823440,
+      "sha256": "65e183101ec371994c08615f5b125e35e33f9594d354906b7db25a4d601e2d0c",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "65e183101ec371994c08615f5b125e35e33f9594d354906b7db25a4d601e2d0c",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Pic2",
+      "name": "E79-ListingImage-Pic2-V1.jpg",
+      "bytes": 588668,
+      "sha256": "265c205b21f8f158da487120b3ff1da01c581b2e27723dfa12d5b465bdc63c9a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "265c205b21f8f158da487120b3ff1da01c581b2e27723dfa12d5b465bdc63c9a",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Size",
+      "name": "E79-ListingImage-Size-V1.jpg",
+      "bytes": 2478722,
+      "sha256": "08bfd21aedd6b3218cbc3959bf3e61c840570e399bf1ac7b58d47673ef7f0458",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "08bfd21aedd6b3218cbc3959bf3e61c840570e399bf1ac7b58d47673ef7f0458",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Pic3",
+      "name": "E79-ListingImage-Pic3-V1.jpg",
+      "bytes": 941913,
+      "sha256": "72086b742de3a191e85d2055ebc014c0009f7ef2cfab2cba39b1c7e3483c32b6",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "72086b742de3a191e85d2055ebc014c0009f7ef2cfab2cba39b1c7e3483c32b6",
+      "verified": true
+    },
+    {
+      "style": "E79",
+      "slot": "Pic4",
+      "name": "E79-ListingImage-Pic4-V1.jpg",
+      "bytes": 969981,
+      "sha256": "3ebffd57a158c8179dce2373351a3d285933eff6e6bffd4082744e7444caeb04",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E79\\E79-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E79-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "3ebffd57a158c8179dce2373351a3d285933eff6e6bffd4082744e7444caeb04",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Main",
+      "name": "E85-Main-V1.jpg",
+      "bytes": 1466942,
+      "sha256": "e3bfb1e2ee2e7e6f3ffa68635e6ec42ffe84639702bf2e0551846004fe7796d6",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e3bfb1e2ee2e7e6f3ffa68635e6ec42ffe84639702bf2e0551846004fe7796d6",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Pic1",
+      "name": "E85-ListingImage-Pic1-V1.jpg",
+      "bytes": 1088559,
+      "sha256": "762b6933427b5835f3b8371e92d42c91b15a54fea54bde88058d98b43483812f",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "762b6933427b5835f3b8371e92d42c91b15a54fea54bde88058d98b43483812f",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Pic2",
+      "name": "E85-ListingImage-Pic2-V1.jpg",
+      "bytes": 788362,
+      "sha256": "e1aefb2ea2d104364dd3b50a18afbf13ba520cacf2362be6e78168d183026e41",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e1aefb2ea2d104364dd3b50a18afbf13ba520cacf2362be6e78168d183026e41",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Size",
+      "name": "E85-ListingImage-Size-V1.jpg",
+      "bytes": 816618,
+      "sha256": "acd94a105e3e413e815490e2a196df6c6e258f2342c42dfb9202c9818e89971d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "acd94a105e3e413e815490e2a196df6c6e258f2342c42dfb9202c9818e89971d",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Pic3",
+      "name": "E85-ListingImage-Pic3-V1.jpg",
+      "bytes": 1132853,
+      "sha256": "40046998ad4f7da8196155701e6694b4b13b78eb1287f41ccdfea7876379d930",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "40046998ad4f7da8196155701e6694b4b13b78eb1287f41ccdfea7876379d930",
+      "verified": true
+    },
+    {
+      "style": "E85",
+      "slot": "Pic4",
+      "name": "E85-ListingImage-Pic4-V1.jpg",
+      "bytes": 1112243,
+      "sha256": "816ca0b26cf150d4de2b13a2c25e94e8c3a2c4c3bbd3419b0b515dca313cf23e",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E85\\E85-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E85-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "816ca0b26cf150d4de2b13a2c25e94e8c3a2c4c3bbd3419b0b515dca313cf23e",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Main",
+      "name": "E86-Main-V1.jpg",
+      "bytes": 1371578,
+      "sha256": "133f38b97f375cfb131d387f4978b80d8bc08d4fe92c15d45e5fe8f1434ab472",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "133f38b97f375cfb131d387f4978b80d8bc08d4fe92c15d45e5fe8f1434ab472",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Pic1",
+      "name": "E86-ListingImage-Pic1-V1.jpg",
+      "bytes": 805585,
+      "sha256": "e0b184c2481514a0635080d8b638fc89b70e29f9d382a688990f50851b6bb284",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e0b184c2481514a0635080d8b638fc89b70e29f9d382a688990f50851b6bb284",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Pic2",
+      "name": "E86-ListingImage-Pic2-V1.jpg",
+      "bytes": 680558,
+      "sha256": "bccf04f861f33e3715e0c9579fdce0792acfab353eb713def6054bb3cee4ddd0",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "bccf04f861f33e3715e0c9579fdce0792acfab353eb713def6054bb3cee4ddd0",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Size",
+      "name": "E86-ListingImage-Size-V1.jpg",
+      "bytes": 681633,
+      "sha256": "c00791b7aa3579b5de018563ffe9e7b48fe1dbd86b9acd801d1e0f374eec5f17",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c00791b7aa3579b5de018563ffe9e7b48fe1dbd86b9acd801d1e0f374eec5f17",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Pic3",
+      "name": "E86-ListingImage-Pic3-V1.jpg",
+      "bytes": 902767,
+      "sha256": "8bbd28fbfe1d271488e0bdd4a85b77fe8c8f6ed75587d7413af06746e6c81f65",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8bbd28fbfe1d271488e0bdd4a85b77fe8c8f6ed75587d7413af06746e6c81f65",
+      "verified": true
+    },
+    {
+      "style": "E86",
+      "slot": "Pic4",
+      "name": "E86-ListingImage-Pic4-V1.jpg",
+      "bytes": 888952,
+      "sha256": "7e9ba47fbb3f97e92cffefa6468d08001ca5680338303338632be714417cb3b9",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E86\\E86-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E86-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7e9ba47fbb3f97e92cffefa6468d08001ca5680338303338632be714417cb3b9",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Main",
+      "name": "E87-Main-V1.jpg",
+      "bytes": 1533639,
+      "sha256": "194a114c61e3f5c6c1d0f71f2a9c5f14358ab6443f8bf799582aeb92124ab8a1",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "194a114c61e3f5c6c1d0f71f2a9c5f14358ab6443f8bf799582aeb92124ab8a1",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Pic1",
+      "name": "E87-ListingImage-Pic1-V1.jpg",
+      "bytes": 882270,
+      "sha256": "9f167618fc43752f58a75d62e07e97ee0a9466f24b505dbc42c0cad3b6fa2156",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9f167618fc43752f58a75d62e07e97ee0a9466f24b505dbc42c0cad3b6fa2156",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Pic2",
+      "name": "E87-ListingImage-Pic2-V1.jpg",
+      "bytes": 762163,
+      "sha256": "6f3312c16a17d45d23a35a5899ecf1b8f381ee30fbfa9cffb86432da523e4902",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6f3312c16a17d45d23a35a5899ecf1b8f381ee30fbfa9cffb86432da523e4902",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Size",
+      "name": "E87-ListingImage-Size-V1.jpg",
+      "bytes": 811286,
+      "sha256": "d712e01fed390b62afccb288bf1c539ca85f8ee58783bea30752b844a3d004c8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d712e01fed390b62afccb288bf1c539ca85f8ee58783bea30752b844a3d004c8",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Pic3",
+      "name": "E87-ListingImage-Pic3-V1.jpg",
+      "bytes": 891004,
+      "sha256": "8fa0398b67f54805222bc05bd66bb38c5b5d717d86cabd0adf62af89a3c89839",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8fa0398b67f54805222bc05bd66bb38c5b5d717d86cabd0adf62af89a3c89839",
+      "verified": true
+    },
+    {
+      "style": "E87",
+      "slot": "Pic4",
+      "name": "E87-ListingImage-Pic4-V1.jpg",
+      "bytes": 796718,
+      "sha256": "a2842f30bab9c247d21119ba1bd23afcbd79024fbbf559704f0de7e1283fb733",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E87\\E87-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E87-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a2842f30bab9c247d21119ba1bd23afcbd79024fbbf559704f0de7e1283fb733",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Main",
+      "name": "E88-Main-V1.jpg",
+      "bytes": 2042339,
+      "sha256": "7a281602d8c20b311213bd42f185ec1f2580cb817fa3fb8a16207ab7ff234bfd",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7a281602d8c20b311213bd42f185ec1f2580cb817fa3fb8a16207ab7ff234bfd",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Pic1",
+      "name": "E88-ListingImage-Pic1-V1.jpg",
+      "bytes": 1163127,
+      "sha256": "34d52bca20145fd018663b3ebff8d24d298426992c91ee3eb1dcb0fdfdd85c26",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "34d52bca20145fd018663b3ebff8d24d298426992c91ee3eb1dcb0fdfdd85c26",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Pic2",
+      "name": "E88-ListingImage-Pic2-V1.jpg",
+      "bytes": 1026302,
+      "sha256": "7f0108df2b0b0b6a3ecbabf2d590b7bb8b0b20b92d988cd6908a4eabc429a1f6",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7f0108df2b0b0b6a3ecbabf2d590b7bb8b0b20b92d988cd6908a4eabc429a1f6",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Size",
+      "name": "E88-ListingImage-Size-V1.jpg",
+      "bytes": 833374,
+      "sha256": "08cbeecd499a98f0301f36a5429105b18e06395bfd739c6f1d998248ed436f33",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "08cbeecd499a98f0301f36a5429105b18e06395bfd739c6f1d998248ed436f33",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Pic3",
+      "name": "E88-ListingImage-Pic3-V1.jpg",
+      "bytes": 1257154,
+      "sha256": "46a41894355ae1a2045697d40f8ca44d55d3b8c32a175f352ef3eef7847b3c6d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "46a41894355ae1a2045697d40f8ca44d55d3b8c32a175f352ef3eef7847b3c6d",
+      "verified": true
+    },
+    {
+      "style": "E88",
+      "slot": "Pic4",
+      "name": "E88-ListingImage-Pic4-V1.jpg",
+      "bytes": 1565102,
+      "sha256": "36abe9ac58c26186e80853cda88d251e6cb6ca5f8bced27b4eba0286b860a49b",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E88\\E88-ListingImage-Pic4-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E88-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "36abe9ac58c26186e80853cda88d251e6cb6ca5f8bced27b4eba0286b860a49b",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Main",
+      "name": "E92-Main-V1.jpg",
+      "bytes": 2059294,
+      "sha256": "2a1b911aa6ee7ee298c7e4146224055b578dbb08e84181f0eceaffd65ad02aee",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2a1b911aa6ee7ee298c7e4146224055b578dbb08e84181f0eceaffd65ad02aee",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Pic1",
+      "name": "E92-ListingImage-Pic1-V1.jpg",
+      "bytes": 1044752,
+      "sha256": "886f1aeddececb070af27657018cbc146e9b7d924c8d7f227e00941084e2b65a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "886f1aeddececb070af27657018cbc146e9b7d924c8d7f227e00941084e2b65a",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Pic2",
+      "name": "E92-ListingImage-Pic2-V1.jpg",
+      "bytes": 983097,
+      "sha256": "a2773250f9f01a291ed795e93218bcf45dbb1593f69f36cd674b7ef64ca37db1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a2773250f9f01a291ed795e93218bcf45dbb1593f69f36cd674b7ef64ca37db1",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Size",
+      "name": "E92-ListingImage-Size-V1.jpg",
+      "bytes": 928015,
+      "sha256": "01a271a78908e33b1ac4a60a892285734c3708fcffab37b49096fe13d1b9df6a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "01a271a78908e33b1ac4a60a892285734c3708fcffab37b49096fe13d1b9df6a",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Pic3",
+      "name": "E92-ListingImage-Pic3-V1.jpg",
+      "bytes": 977935,
+      "sha256": "0dc5c942ededf78be424e7dd2ed77a942898247616e02845e93a3e0319d15afa",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0dc5c942ededf78be424e7dd2ed77a942898247616e02845e93a3e0319d15afa",
+      "verified": true
+    },
+    {
+      "style": "E92",
+      "slot": "Pic4",
+      "name": "E92-ListingImage-Pic4-V1.jpg",
+      "bytes": 840244,
+      "sha256": "761094313b9a29172373da02caf9129a828cc93dc33e46d1b237cb60a4b06349",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E92\\E92-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E92-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "761094313b9a29172373da02caf9129a828cc93dc33e46d1b237cb60a4b06349",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Main",
+      "name": "E95-Main-V1.jpg",
+      "bytes": 1754377,
+      "sha256": "c16a038c017e507c19e9b4e5986cc1047c1e57f96a6184cd1770f49bc2ed6cbf",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "c16a038c017e507c19e9b4e5986cc1047c1e57f96a6184cd1770f49bc2ed6cbf",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Pic1",
+      "name": "E95-ListingImage-Pic1-V1.jpg",
+      "bytes": 1163176,
+      "sha256": "bf096e293b8ad7d67bd48c5ba6f16c2d9f32e9acb1541a59539750a926664b34",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "bf096e293b8ad7d67bd48c5ba6f16c2d9f32e9acb1541a59539750a926664b34",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Pic2",
+      "name": "E95-ListingImage-Pic2-V1.jpg",
+      "bytes": 1006180,
+      "sha256": "7f4c01c1bd6069d59bd4e23b11fa9ba69bbbbd5543ffeeadd2285eaefc6c61f8",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7f4c01c1bd6069d59bd4e23b11fa9ba69bbbbd5543ffeeadd2285eaefc6c61f8",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Size",
+      "name": "E95-ListingImage-Size-V1.jpg",
+      "bytes": 842998,
+      "sha256": "bb993100e500dd5fd5ea0facc3b1ccf79786db3736223fd42b94603ef35fb6e2",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "bb993100e500dd5fd5ea0facc3b1ccf79786db3736223fd42b94603ef35fb6e2",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Pic3",
+      "name": "E95-ListingImage-Pic3-V1.jpg",
+      "bytes": 1263339,
+      "sha256": "ab4a0a9cd17c49a8c10f7f6643ce32370ab7ff5b1e076344e4fb3a34906d8a5c",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "ab4a0a9cd17c49a8c10f7f6643ce32370ab7ff5b1e076344e4fb3a34906d8a5c",
+      "verified": true
+    },
+    {
+      "style": "E95",
+      "slot": "Pic4",
+      "name": "E95-ListingImage-Pic4-V1.jpg",
+      "bytes": 1138656,
+      "sha256": "03541190382a36aff4c92cf14eefb5080f321f1d6e59449da55000dc3969247f",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E95\\E95-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E95-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "03541190382a36aff4c92cf14eefb5080f321f1d6e59449da55000dc3969247f",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Main",
+      "name": "E98-Main-V1.jpg",
+      "bytes": 1948290,
+      "sha256": "92a41225296708f0d8c7bc44e63bde3f7d0e084d65cbbf9c0d44f8f576565d9a",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "92a41225296708f0d8c7bc44e63bde3f7d0e084d65cbbf9c0d44f8f576565d9a",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Pic1",
+      "name": "E98-ListingImage-Pic1-V1.jpg",
+      "bytes": 911168,
+      "sha256": "a15c2280de24965125c1a353e0e071e4b69a9b03de52986d7bf668359e8f85dd",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a15c2280de24965125c1a353e0e071e4b69a9b03de52986d7bf668359e8f85dd",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Pic2",
+      "name": "E98-ListingImage-Pic2-V1.jpg",
+      "bytes": 830476,
+      "sha256": "a6c2b71ce824a1f289d32fc9f39fd347942ff394b42a8a6ded5e06e8eb5c57e4",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "a6c2b71ce824a1f289d32fc9f39fd347942ff394b42a8a6ded5e06e8eb5c57e4",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Size",
+      "name": "E98-ListingImage-Size-V1.jpg",
+      "bytes": 823641,
+      "sha256": "e1cee642cf79d2521e52bfd5f8e22eaf4e4cc9c823f25c4c8321cb439a91d00f",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e1cee642cf79d2521e52bfd5f8e22eaf4e4cc9c823f25c4c8321cb439a91d00f",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Pic3",
+      "name": "E98-ListingImage-Pic3-V1.jpg",
+      "bytes": 975272,
+      "sha256": "97c5dadada48c8aee46dd96571b6650f728b3b75b64712aacaa6e9dbe3c0e6fd",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "97c5dadada48c8aee46dd96571b6650f728b3b75b64712aacaa6e9dbe3c0e6fd",
+      "verified": true
+    },
+    {
+      "style": "E98",
+      "slot": "Pic4",
+      "name": "E98-ListingImage-Pic4-V1.jpg",
+      "bytes": 901177,
+      "sha256": "91c818dc076c172a02f7b0c142fe2ffae2b6c5597597303b56da52546f20af1a",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E98\\E98-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E98-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "91c818dc076c172a02f7b0c142fe2ffae2b6c5597597303b56da52546f20af1a",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Main",
+      "name": "E101-Main-V1.jpg",
+      "bytes": 1508338,
+      "sha256": "5c98e8a87d98fc9a5ad3244892bb57adfbcc4205ca5a6ad318f4dec0666838dd",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "5c98e8a87d98fc9a5ad3244892bb57adfbcc4205ca5a6ad318f4dec0666838dd",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Pic1",
+      "name": "E101-ListingImage-Pic1-V1.jpg",
+      "bytes": 1117084,
+      "sha256": "d7ccbcf693543fac15d36b31dfe4fab9f77161f727a7629d99ba03f82eec42c5",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d7ccbcf693543fac15d36b31dfe4fab9f77161f727a7629d99ba03f82eec42c5",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Pic2",
+      "name": "E101-ListingImage-Pic2-V1.jpg",
+      "bytes": 866503,
+      "sha256": "6fb7df0f14348620ac8be4154bf74eeb94c7b97b22d9dc373fb9d7e1cf2e4f66",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6fb7df0f14348620ac8be4154bf74eeb94c7b97b22d9dc373fb9d7e1cf2e4f66",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Size",
+      "name": "E101-ListingImage-Size-V1.jpg",
+      "bytes": 822434,
+      "sha256": "5e0efa3ee1a2fc2eb3ec5a091a9905bcea64e072e859ab0a8ad3b1b188604cd0",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "5e0efa3ee1a2fc2eb3ec5a091a9905bcea64e072e859ab0a8ad3b1b188604cd0",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Pic3",
+      "name": "E101-ListingImage-Pic3-V1.jpg",
+      "bytes": 1242099,
+      "sha256": "6e42a880c9bbaca65845b99f02bd65ba5a0e093b909c370ef1cd2d489d7650e3",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6e42a880c9bbaca65845b99f02bd65ba5a0e093b909c370ef1cd2d489d7650e3",
+      "verified": true
+    },
+    {
+      "style": "E101",
+      "slot": "Pic4",
+      "name": "E101-ListingImage-Pic4-V1.jpg",
+      "bytes": 1100279,
+      "sha256": "6c0b7bff373e6742ea31dd1b15e381916d9784a64e28f8d6656ed0e81c0db558",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E101\\E101-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E101-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "6c0b7bff373e6742ea31dd1b15e381916d9784a64e28f8d6656ed0e81c0db558",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Main",
+      "name": "E103-Main-V1.jpg",
+      "bytes": 1502391,
+      "sha256": "9955987b01b17a6f4961cdfbcb8a452b84be5cd3faee3ce3a94d4e11b65a0525",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "9955987b01b17a6f4961cdfbcb8a452b84be5cd3faee3ce3a94d4e11b65a0525",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Pic1",
+      "name": "E103-ListingImage-Pic1-V1.jpg",
+      "bytes": 1132437,
+      "sha256": "0a0c2ce64b3688abacbc52220167c2f82f5b0e694ea42bb6d48b11e5ef975bde",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "0a0c2ce64b3688abacbc52220167c2f82f5b0e694ea42bb6d48b11e5ef975bde",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Pic2",
+      "name": "E103-ListingImage-Pic2-V1.jpg",
+      "bytes": 870704,
+      "sha256": "93f42b2c3d5e1a02ad64a266fa97383fa65cc552d17b8a9d77aa46265421beac",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "93f42b2c3d5e1a02ad64a266fa97383fa65cc552d17b8a9d77aa46265421beac",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Size",
+      "name": "E103-ListingImage-Size-V1.jpg",
+      "bytes": 832018,
+      "sha256": "56845c2b200020876e891e8c11bcf143338df6e89f3f5906ed8081ce207adcec",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "56845c2b200020876e891e8c11bcf143338df6e89f3f5906ed8081ce207adcec",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Pic3",
+      "name": "E103-ListingImage-Pic3-V1.jpg",
+      "bytes": 1192779,
+      "sha256": "7aa34c0ddefcf54492861c981d6516ea3387cb9deb082e09588763729f904373",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "7aa34c0ddefcf54492861c981d6516ea3387cb9deb082e09588763729f904373",
+      "verified": true
+    },
+    {
+      "style": "E103",
+      "slot": "Pic4",
+      "name": "E103-ListingImage-Pic4-V1.jpg",
+      "bytes": 1138806,
+      "sha256": "e0e948732f2258bce37402645df7add60fea62bd98061a8ed4265f56417777fe",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E103\\E103-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E103-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "e0e948732f2258bce37402645df7add60fea62bd98061a8ed4265f56417777fe",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Main",
+      "name": "E108-Main-V1.jpg",
+      "bytes": 1677836,
+      "sha256": "2079667bd24f81ca18b0c418258f079013ce83e6247d506e237c1369ea9412e3",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-Main-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2079667bd24f81ca18b0c418258f079013ce83e6247d506e237c1369ea9412e3",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Pic1",
+      "name": "E108-ListingImage-Pic1-V1.jpg",
+      "bytes": 1103919,
+      "sha256": "efa9cafd56d85d39f85dd82cd8dc4a1ed751a94b1948d61583ba3df8698f0c9d",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "efa9cafd56d85d39f85dd82cd8dc4a1ed751a94b1948d61583ba3df8698f0c9d",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Pic2",
+      "name": "E108-ListingImage-Pic2-V1.jpg",
+      "bytes": 936425,
+      "sha256": "31de8bd336a84e53dc9699c97e2b085d8eb4ba66e82cfa56139a5248647f8cc1",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "31de8bd336a84e53dc9699c97e2b085d8eb4ba66e82cfa56139a5248647f8cc1",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Size",
+      "name": "E108-ListingImage-Size-V1.jpg",
+      "bytes": 794518,
+      "sha256": "cc9d0cd3716e72612b9cc1632e8be81ff5915d7acb62c3f4b62562785d35f378",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cc9d0cd3716e72612b9cc1632e8be81ff5915d7acb62c3f4b62562785d35f378",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Pic3",
+      "name": "E108-ListingImage-Pic3-V1.jpg",
+      "bytes": 1255306,
+      "sha256": "d4a67f7d2618de41861cd67a1a3d096f7d114117c41129104f7aaa4fd3ffcc29",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "d4a67f7d2618de41861cd67a1a3d096f7d114117c41129104f7aaa4fd3ffcc29",
+      "verified": true
+    },
+    {
+      "style": "E108",
+      "slot": "Pic4",
+      "name": "E108-ListingImage-Pic4-V1.jpg",
+      "bytes": 1145265,
+      "sha256": "90f98c192b65543f59bf4ad21b15ef9fa05f8a5ad6c9e8386111041ab1244dbb",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E108\\E108-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E108-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "90f98c192b65543f59bf4ad21b15ef9fa05f8a5ad6c9e8386111041ab1244dbb",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Main",
+      "name": "E109-Main-V1.jpg",
+      "bytes": 2044575,
+      "sha256": "cbf8127f1e7da6ca9c3a669d276e1bb3808b70cee962a3422c7642db53abbcba",
+      "sourceMatches": [],
+      "otherMatches": [],
+      "currentCandidates": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-Main-V1-20261019.jpg",
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-Main-V1.jpg"
+      ],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-Main-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "cbf8127f1e7da6ca9c3a669d276e1bb3808b70cee962a3422c7642db53abbcba",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Pic1",
+      "name": "E109-ListingImage-Pic1-V1.jpg",
+      "bytes": 1220702,
+      "sha256": "2c366d31c31634d97e2d8e469f43208fd45d1f4b6bee17ec2c0fb39bc9fb1bce",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-ListingImage-Pic1-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-ListingImage-Pic1-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "2c366d31c31634d97e2d8e469f43208fd45d1f4b6bee17ec2c0fb39bc9fb1bce",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Pic2",
+      "name": "E109-ListingImage-Pic2-V1.jpg",
+      "bytes": 1056874,
+      "sha256": "efd3a4a277a6792a63db97ac0988441eba4667f7b31ec58ac4d23b2d1ede6520",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-ListingImage-Pic2-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-ListingImage-Pic2-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "efd3a4a277a6792a63db97ac0988441eba4667f7b31ec58ac4d23b2d1ede6520",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Size",
+      "name": "E109-ListingImage-Size-V1.jpg",
+      "bytes": 811178,
+      "sha256": "ce55183189a0a60b3f6cb53ecde727efb497871c83a1e3e855acb5b619f1c309",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-ListingImage-Size-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-ListingImage-Size-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "ce55183189a0a60b3f6cb53ecde727efb497871c83a1e3e855acb5b619f1c309",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Pic3",
+      "name": "E109-ListingImage-Pic3-V1.jpg",
+      "bytes": 1243939,
+      "sha256": "613b9cd2c6b56ec38efac20fc4a96fbe5d7183e08cb9412a2cd2dfbca44ed20f",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-ListingImage-Pic3-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-ListingImage-Pic3-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "613b9cd2c6b56ec38efac20fc4a96fbe5d7183e08cb9412a2cd2dfbca44ed20f",
+      "verified": true
+    },
+    {
+      "style": "E109",
+      "slot": "Pic4",
+      "name": "E109-ListingImage-Pic4-V1.jpg",
+      "bytes": 1190051,
+      "sha256": "8005648b761868c930a13a821add8441512bd6ecaccb9b14c00405e6bfc70965",
+      "sourceMatches": [
+        "E:\\local-lot\\15-design-hub\\01-产品图\\产品图-A+\\E109\\E109-ListingImage-Pic4-V1.jpg"
+      ],
+      "otherMatches": [],
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/31d91874d02640205246e3094e49d6d9d3608ae1/productimage/M3/E109-ListingImage-Pic4-V1.jpg",
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "downloadSha256": "8005648b761868c930a13a821add8441512bd6ecaccb9b14c00405e6bfc70965",
+      "verified": true
+    }
+  ]
+}
