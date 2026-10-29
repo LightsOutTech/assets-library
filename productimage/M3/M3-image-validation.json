@@ -1,7 +1,7 @@
 {
   "verifiedAt": "2026-10-27T02:51:13.826Z",
   "imageBasis": "Existing productimage/M3 images",
-  "commit": "ef608963b8d8c4895d5543af14e920e5701a7bd7",
+  "commit": "0d087915dbb74704e788af175bed565056677fc8",
   "styles": [
     "E52",
     "E64",
@@ -1660,13 +1660,14 @@
       "style": "E86",
       "slot": "Main",
       "name": "E86-Main-V1.jpg",
-      "bytes": 1812391,
-      "sha256": "91daf59c62d0ad67d7a62864f1356e0957924e227602f4afa430c61a29b1f852",
-      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E86-Main-V1.jpg",
+      "bytes": 2408553,
+      "sha256": "58d1c20b80dbe3ffd7e1c00229ebbe527d64568de1686cf94a45dba19a6f6285",
+      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/0d087915dbb74704e788af175bed565056677fc8/productimage/M3/E86-Main-V1.jpg",
       "httpStatus": 200,
       "contentType": "image/jpeg",
-      "downloadSha256": "91daf59c62d0ad67d7a62864f1356e0957924e227602f4afa430c61a29b1f852",
-      "verified": true
+      "downloadSha256": "58d1c20b80dbe3ffd7e1c00229ebbe527d64568de1686cf94a45dba19a6f6285",
+      "verified": true,
+      "verifiedAt": "2026-10-29T02:17:12.297807+00:00"
     },
     {
       "style": "E87",
@@ -2112,5 +2113,6 @@
       "downloadSha256": "92a41225296708f0d8c7bc44e63bde3f7d0e084d65cbbf9c0d44f8f576565d9a",
       "verified": true
     }
-  ]
+  ],
+  "localUpdatedAt": "2026-10-29T02:17:39.236512+00:00"
 }
