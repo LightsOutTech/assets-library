@@ -1,7 +1,7 @@
 {
-  "verifiedAt": "2026-10-27T02:51:13.826Z",
-  "imageBasis": "Existing productimage/M3 images",
-  "commit": "0d087915dbb74704e788af175bed565056677fc8",
+  "verifiedAt": "2026-11-03T05:46:05.874Z",
+  "imageBasis": "Current local productimage/M3 images; changed images pending upload",
+  "commit": "ef608963b8d8c4895d5543af14e920e5701a7bd7",
   "styles": [
     "E52",
     "E64",
@@ -32,7 +32,7 @@
     "E101"
   ],
   "imageCount": 165,
-  "verified": 165,
+  "verified": 162,
   "missing": [
     {
       "style": "E52",
@@ -1000,13 +1000,15 @@
       "style": "E5",
       "slot": "Size",
       "name": "E5-ListingImage-Size-V1.jpg",
-      "bytes": 539331,
-      "sha256": "18fcc8b8b0cbffa4d573c351979b23fc85255073e5f7c17288ffd47fa1217da1",
-      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E5-ListingImage-Size-V1.jpg",
+      "bytes": 783088,
+      "sha256": "47b84241c7e08419f405aba5d973d27195045c58a3b8c4747ee384dc474d4aa6",
+      "url": "",
       "httpStatus": 200,
       "contentType": "image/jpeg",
       "downloadSha256": "18fcc8b8b0cbffa4d573c351979b23fc85255073e5f7c17288ffd47fa1217da1",
-      "verified": true
+      "verified": false,
+      "previousUrl": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E5-ListingImage-Size-V1.jpg",
+      "status": "待上传最新图片"
     },
     {
       "style": "E5",
@@ -1769,13 +1771,15 @@
       "style": "E88",
       "slot": "Pic3",
       "name": "E88-ListingImage-Pic3-V1.jpg",
-      "bytes": 1257154,
-      "sha256": "46a41894355ae1a2045697d40f8ca44d55d3b8c32a175f352ef3eef7847b3c6d",
-      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E88-ListingImage-Pic3-V1.jpg",
+      "bytes": 1312081,
+      "sha256": "8f6677158c1da9107ab7e304682f288357fa1265c940ee93206a9debdd48bee7",
+      "url": "",
       "httpStatus": 200,
       "contentType": "image/jpeg",
       "downloadSha256": "46a41894355ae1a2045697d40f8ca44d55d3b8c32a175f352ef3eef7847b3c6d",
-      "verified": true
+      "verified": false,
+      "previousUrl": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E88-ListingImage-Pic3-V1.jpg",
+      "status": "待上传最新图片"
     },
     {
       "style": "E88",
@@ -1865,13 +1869,15 @@
       "style": "E9",
       "slot": "Pic5",
       "name": "E9-ListingImage-Pic5-V1.jpg",
-      "bytes": 10879579,
-      "sha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
-      "url": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E9-ListingImage-Pic5-V1.jpg",
+      "bytes": 16379486,
+      "sha256": "ddda0ede38f786b48f72931a39a67d8939098883bc39896b831541db6396d5fc",
+      "url": "",
       "httpStatus": 200,
       "contentType": "image/jpeg",
       "downloadSha256": "cd6c2939e209b421d1a6dd0d3279c052a638450da398665c3c09c769bad1b306",
-      "verified": true
+      "verified": false,
+      "previousUrl": "https://media.githubusercontent.com/media/LightsOutTech/assets-library/ef608963b8d8c4895d5543af14e920e5701a7bd7/productimage/M3/E9-ListingImage-Pic5-V1.jpg",
+      "status": "待上传最新图片"
     },
     {
       "style": "E9",
@@ -2114,5 +2120,10 @@
       "verified": true
     }
   ],
-  "localUpdatedAt": "2026-10-29T02:17:39.236512+00:00"
+  "localUpdatedAt": "2026-11-03T05:46:05.874Z",
+  "pendingUploads": [
+    "E5-ListingImage-Size-V1.jpg",
+    "E88-ListingImage-Pic3-V1.jpg",
+    "E9-ListingImage-Pic5-V1.jpg"
+  ]
 }
